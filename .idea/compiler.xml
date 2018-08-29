@@ -13,7 +13,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="project-dao" target="1.5" />
+      <module name="project-dao" target="1.7" />
       <module name="projectdao" target="1.5" />
     </bytecodeTargetLevel>
   </component>
